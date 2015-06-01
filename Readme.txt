@@ -1,0 +1,5 @@
+- First, download and setup Wamp server. We also need to install Microsoft Visual C ++ 2012 in order to run Wamp.
+- Afterwards, put all repo into C:\wamp\www
+- Next, run Wamp service
+- Then, go to http://localhost/karaokewebapp/
+- Fill
