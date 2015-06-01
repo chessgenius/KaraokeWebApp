@@ -1,0 +1,4 @@
+This Javascript code is used to 
+	- Get Deezer ID from Echonest and then streaming tracks from Deezer.
+	- Get MusixMatch ID from Echonest and then getting MusicMatch lyric.
+	- Update timing lyric from User (function updateShow)
